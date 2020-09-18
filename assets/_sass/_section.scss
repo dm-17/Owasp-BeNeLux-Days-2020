@@ -9,6 +9,9 @@ section {
 	&.punch{
 		font-size: 110%;
 	}
+	h2.punch{
+		color: #CE0000;
+	}
 	ul {
 		padding: 0em 1em 1em 1.5em;
 		li {
@@ -36,7 +39,7 @@ section {
 		width: 100%;
 		margin-bottom: 1em;
 		th, td {
-			padding: 0.5em;		
+			padding: 0.5em;
 		}
 		thead {
 			tr {

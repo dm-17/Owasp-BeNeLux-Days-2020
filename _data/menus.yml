@@ -1,10 +1,16 @@
+- title: Keynote
+  url  : program/keynote
+- title: Conference program
+  url  : program/conference
 - title: Sponsor
-  url  : sponsors/
+  url  : sponsor/
 - title: About
   items:
-  - title: Global AppSec
-    url  : about/
+  - title: About OWASP
+    url  : about
   - title: Team
     url  : about/team
   - title: Code of Conduct
     url  : about/code-of-conduct
+  - title: Diversity Statement
+    url  : about/diversity-statement
