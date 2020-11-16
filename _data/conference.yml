@@ -1,0 +1,134 @@
+- image   :
+  name    : Gary McGraw, Ph.D.
+  bio     : Gary McGraw is co-founder of the Berryville Institute of Machine Learning.
+            He is a globally recognized authority on software security and the author of eight
+            best selling books on this topic. His titles include Software Security, Exploiting
+            Software, Building Secure Software, Java Security, Exploiting Online Games, and 6 other
+            books; and he is editor of the Addison-Wesley Software Security series.  Dr. McGraw has
+            also written over 100 peer-reviewed scientific publications. Gary serves on the Advisory
+            Boards of Code DX, Maxmyinterest, Runsafe Security, and Secure Code Warrior.  He has also
+            served as a Board member of Cigital and Codiscope (acquired by Synopsys) and as Advisor
+            to Black Duck (acquired by Synopsys), Dasient (acquired by Twitter), Fortify Software
+            (acquired by HP), and Invotas (acquired by FireEye). Gary produced the monthly Silver
+            Bullet Security Podcast for IEEE Security & Privacy magazine for thirteen years.
+            His dual PhD is in Cognitive Science and Computer Science from Indiana University
+            where he serves on the Dean’s Advisory Council for the Luddy School of Informatics,
+            Computing, and Engineering.<br>
+            <a href="https://garymcgraw.com">https://garymcgraw.com</a> |
+            <a href="https://berryvilleiml.com/">https://berryvilleiml.com</a> |
+            <a href="https://twitter.com/cigitalgem">@cigitalgem</a>
+  title   : Security Engineering for Machine Learning
+  abstract: Machine Learning appears to have made impressive progress on many tasks including image classification,
+            machine translation, autonomous vehicle control, playing complex games including chess, Go, and Atari video games,
+            and more. This has led to much breathless popular press coverage of Artificial Intelligence, and has elevated deep
+            learning to an almost magical status in the eyes of the public.<br> ML, especially of the deep learning sort, is not
+            magic, however.  ML has become so popular that its application, though often poorly understood and partially
+            motivated by hype, is exploding. In my view, this is not necessarily a good thing. I am concerned with the systematic
+            risk invoked by adopting ML in a haphazard fashion. Our research at the Berryville Institute of Machine Learning (BIIML)
+            is focused on understanding and categorizing security engineering risks introduced by ML at the design level.<br>
+            Though the idea of addressing security risk in ML is not a new one, most previous work has focused on either particular
+            attacks against running ML systems (a kind of dynamic analysis) or on operational security issues surrounding ML.<br>
+            This talk focuses on two threads&#58; building a taxonomy of known attacks on ML and the results of an architectural
+            risk analysis (sometimes called a threat model) of ML systems in general.<br>
+            A list of the top five (of 78 known) ML security risks will be presented.
+
+
+- image   : grant_ongers.png
+  name    : Grant Ongers
+  bio     : Grant's experience spans Dev - building platforms for regulated industries for
+            more than 10 years. 20+ years in Ops, everything from managing operations in
+            NOCs to mainframe and DBs. He also has over 30 years pushing the limits of
+            (Info)Sec - mostly white-hat.<br>
+            Grant’s community involvement is global&#58; Staff at BSides (London, Las Vegas,
+            and Cape Town), Goon at DEF CON (USA) for nearly ten years and DC2721 co-founder,
+            staff at BlackHat (USA and EU), and OWASP Global Board member.
+  title   : Gamification of Agile Threat Modelling Using OWASP Cornucopia
+  abstract: Traditional threat modelling could be described as problematic and time consuming,
+            so does the practice serve a purpose in the world where DevOps is a thing,
+            and if so, how? Can you get the right balance of rigour and agility from traditional
+            threat modelling tools and what options does gamification bring to the table? <br>
+            We will look at an OWASP project I've found to be very useful in getting value
+            out of threat modelling in the agile world of rapid delivery&#58; Cornucopia.
+
+
+- image   : izar_tarandach.png
+  name    : Izar Tarandach
+  bio     : Izar Tarandach is a Sr. Security Architect at Bridgewater Associates.
+            Previously he was Lead Product Security Architect. He has co-authored 'Threat
+            Modeling&#58; A Practical Guide for Development Teams' with Matt Coles
+            (O'Reilly, Dec/2020) and is project leader for pytm,
+            a 'threat-modeling-with-code' tool.
+  title   : Continuous Threat Modeling for Development Teams
+  abstract: The recent increase in popularity of Threat Modeling has repeatedly pointed
+            at the necessity for threat modeling methodologies that work in an agile environment
+            where design changes with implementation and emerging constraints. CTM (Continuous
+            Threat Modeling) is a methodology proposing to help development teams close this gap.
+
+
+- image   : anastasiia_voitova.jpg
+  name    : Anastasiia Voitova
+  bio     : Head of Customer Solutions, Security Software Engineer @CossackLabs<br>
+            Anastasiia is a software engineer with a wide background, she started
+            her career as a mobile developer, then deepen into security engineering.
+            Now she is focused on cryptography/applied security, she helps companies
+            to build secure yet usable systems (oh yes, it takes efforts). <br>
+            Anastasiia maintains open-source cryptographic library Themis,
+            conducts secure software development training, often speaks at
+            international conferences, co-organizes cyber-security events and
+            leads security chapter at WomenWhoCode Kyiv.
+  title   : Maintaining Crypto Library for 12 Languages
+  abstract: Maintaining cross-platform cryptographic library is a journey full of
+            unexpected bugs, language-specific hacks, difficult decisions and
+            endless struggle to make developer-facing APIs easy-to-use and
+            hard-to-misuse.<br>
+            We will talk about API design, multi-platform specifics (oh Apple),
+            testing and supporting documentation. The talk will be useful for
+            anyone who has their own open source project; or uses one &#58;)
+
+
+- image   :
+  name    : Izar Tarandach and Brook S.E. Schoenfield
+  bio     : Izar Tarandach is a Sr. Security Architect in a leading financial
+            institution. Before that he was Lead Product Security Architect
+            at Autodesk inc., Security Architect for Enterprise Hybrid Cloud
+            at Dell EMC, Security Consultant at the EMC Product Security Office.
+            He is a core contributor to SAFECode and a founding contributor to
+            the IEEE Center for Security Design. He holds a masters degree in
+            Computer Science/Security from Boston University and has served as
+            an instructor in Digital Forensics at Boston University and in
+            Secure Development at the University of Oregon. Izar recently
+            published Threat Modeling, a practical guide for development teams
+            (O’Reilly, 2020) together with Threat Modeling.<br><br>
+            Brook S.E. Schoenfield is the author of Secrets Of A cyber Security
+            Architect (Auerbach, 2019) and Securing Systems&#58; Applied Security
+            Architecture and Threat Models (CRC Press, 2015). He provides
+            holistic, technical leadership for his clients’ security architecture
+            services. Previously, he led software security services at IOActive,
+            product security architecture at McAfee and Cisco Engineering,
+            was Autodesk’s Enterprise Security Architect, and lead Web and
+            Application security for Cisco Infosec. He is a founding member
+            of IEEE’s Center for Secure Design and is a featured Security
+            Architect at the Bletchley Park Museum of Computing. He is the
+            originator of Baseline Application Vulnerability Assessment
+            (BAVA), Just Good Enough Risk Rating (JGERR), Architecture,
+            Threats, Attack Surfaces and Mitigations (ATASM) and developer-centric
+            security. He contributed to Core Software Security (CRC Press, 2014),
+            and co-authored Avoiding the Top 10 Security Design Flaws (IEEE, 2014)
+            and Tactical Threat Modeling (SAFECode, 2017). Building In Security
+            At Agile Speed  is expected early 2021 (CRC Press, co-authored
+            with James Ransome).
+  title   : Panel talk&#58; Agile Threat Modeling
+  abstract: During this session we have 2 renowned threat modeling authors&#58;
+            Izar Tarandach and Brook Schoenfield, discussing how to combine threat
+            modeling with agile development.<br>
+            Threat modeling is a risk-based approach to designing secure systems.
+            It is based on identifying threats in order to develop mitigations to them.<br>
+            In software development, agile practices approach discovering
+            requirements and developing solutions through the collaborative
+            effort of self-organizing and cross-functional teams and their
+            end users. How can threat modeling as a practice be embedded in
+            agile development will be the main theme of this session.<br>
+            Brook and Izar will first set the stage by presenting respectively&#58;<br>
+            - Where does threat modelling fit within software security (an SDL)?<br>
+            - Threat modeling for Agile teams?<br>
+            Followed by a panel discussion moderated by Sebastien Deleersnyder, Toreon.
