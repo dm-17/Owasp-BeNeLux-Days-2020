@@ -18,18 +18,26 @@
             <a href="https://berryvilleiml.com/">https://berryvilleiml.com</a> |
             <a href="https://twitter.com/cigitalgem">@cigitalgem</a>
   title   : Security Engineering for Machine Learning
-  abstract: Machine Learning appears to have made impressive progress on many tasks including image classification,
-            machine translation, autonomous vehicle control, playing complex games including chess, Go, and Atari video games,
-            and more. This has led to much breathless popular press coverage of Artificial Intelligence, and has elevated deep
-            learning to an almost magical status in the eyes of the public.<br> ML, especially of the deep learning sort, is not
-            magic, however.  ML has become so popular that its application, though often poorly understood and partially
-            motivated by hype, is exploding. In my view, this is not necessarily a good thing. I am concerned with the systematic
-            risk invoked by adopting ML in a haphazard fashion. Our research at the Berryville Institute of Machine Learning (BIIML)
-            is focused on understanding and categorizing security engineering risks introduced by ML at the design level.<br>
-            Though the idea of addressing security risk in ML is not a new one, most previous work has focused on either particular
-            attacks against running ML systems (a kind of dynamic analysis) or on operational security issues surrounding ML.<br>
-            This talk focuses on two threads&#58; building a taxonomy of known attacks on ML and the results of an architectural
-            risk analysis (sometimes called a threat model) of ML systems in general.<br>
+  abstract: Machine Learning appears to have made impressive progress on many tasks including
+            image classification, machine translation, autonomous vehicle control, playing
+            complex games including chess, Go, and Atari video games, and more. <br>
+            This has led to much breathless popular press coverage of Artificial
+            Intelligence, and has elevated deep learning to an almost magical status
+            in the eyes of the public.<br>
+            ML, especially of the deep learning sort, is not magic, however.  <br>
+            ML has become so popular that its application, though often poorly
+            understood and partially motivated by hype, is exploding. In my view,
+            this is not necessarily a good thing. I am concerned with the systematic
+            risk invoked by adopting ML in a haphazard fashion. Our research at the
+            Berryville Institute of Machine Learning (BIIML) is focused on understanding
+            and categorizing security engineering risks introduced by ML at the design level.<br>
+            Though the idea of addressing security risk in ML is not a new one, most
+            previous work has focused on either particular attacks against running
+            ML systems (a kind of dynamic analysis) or on operational security
+            issues surrounding ML.<br>
+            This talk focuses on two threads&#58; building a taxonomy of known attacks
+            on ML and the results of an architectural risk analysis (sometimes
+            called a threat model) of ML systems in general.<br>
             A list of the top five (of 78 known) ML security risks will be presented.
 
 
