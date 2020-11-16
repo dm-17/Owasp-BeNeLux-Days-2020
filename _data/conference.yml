@@ -1,4 +1,4 @@
-- image   :
+- image   : gary_mc_graw.png
   name    : Gary McGraw, Ph.D.
   bio     : Gary McGraw is co-founder of the Berryville Institute of Machine Learning.
             He is a globally recognized authority on software security and the author of eight
@@ -40,44 +40,6 @@
             called a threat model) of ML systems in general.<br>
             A list of the top five (of 78 known) ML security risks will be presented.
 
-
-- image   : grant_ongers.png
-  name    : Grant Ongers
-  bio     : Grant's experience spans Dev - building platforms for regulated industries for
-            more than 10 years. 20+ years in Ops, everything from managing operations in
-            NOCs to mainframe and DBs. He also has over 30 years pushing the limits of
-            (Info)Sec - mostly white-hat.<br>
-            Grant’s community involvement is global&#58; Staff at BSides (London, Las Vegas,
-            and Cape Town), Goon at DEF CON (USA) for nearly ten years and DC2721 co-founder,
-            staff at BlackHat (USA and EU), and OWASP Global Board member.
-  title   : Gamification of Agile Threat Modelling Using OWASP Cornucopia
-  abstract: Traditional threat modelling could be described as problematic and time consuming,
-            so does the practice serve a purpose in the world where DevOps is a thing,
-            and if so, how? Can you get the right balance of rigour and agility from traditional
-            threat modelling tools and what options does gamification bring to the table? <br>
-            We will look at an OWASP project I've found to be very useful in getting value
-            out of threat modelling in the agile world of rapid delivery&#58; Cornucopia.
-
-
-- image   : anastasiia_voitova.jpg
-  name    : Anastasiia Voitova
-  bio     : Head of Customer Solutions, Security Software Engineer @CossackLabs<br>
-            Anastasiia is a software engineer with a wide background, she started
-            her career as a mobile developer, then deepen into security engineering.
-            Now she is focused on cryptography/applied security, she helps companies
-            to build secure yet usable systems (oh yes, it takes efforts). <br>
-            Anastasiia maintains open-source cryptographic library Themis,
-            conducts secure software development training, often speaks at
-            international conferences, co-organizes cyber-security events and
-            leads security chapter at WomenWhoCode Kyiv.
-  title   : Maintaining Crypto Library for 12 Languages
-  abstract: Maintaining cross-platform cryptographic library is a journey full of
-            unexpected bugs, language-specific hacks, difficult decisions and
-            endless struggle to make developer-facing APIs easy-to-use and
-            hard-to-misuse.<br>
-            We will talk about API design, multi-platform specifics (oh Apple),
-            testing and supporting documentation. The talk will be useful for
-            anyone who has their own open source project; or uses one &#58;)
 
 - image   : izar_tarandach.png
   name    : Izar Tarandach
@@ -139,3 +101,43 @@
             - Where does threat modelling fit within software security (an SDL)?<br>
             - Threat modeling for Agile teams?<br>
             Followed by a panel discussion moderated by Sebastien Deleersnyder, Toreon.
+
+
+- image   : grant_ongers.png
+  name    : Grant Ongers
+  bio     : Grant's experience spans Dev - building platforms for regulated industries for
+            more than 10 years. 20+ years in Ops, everything from managing operations in
+            NOCs to mainframe and DBs. He also has over 30 years pushing the limits of
+            (Info)Sec - mostly white-hat.<br>
+            Grant’s community involvement is global&#58; Staff at BSides (London, Las Vegas,
+            and Cape Town), Goon at DEF CON (USA) for nearly ten years and DC2721 co-founder,
+            staff at BlackHat (USA and EU), and OWASP Global Board member.
+  title   : Gamification of Agile Threat Modelling Using OWASP Cornucopia
+  abstract: Traditional threat modelling could be described as problematic and time consuming,
+            so does the practice serve a purpose in the world where DevOps is a thing,
+            and if so, how? Can you get the right balance of rigour and agility from traditional
+            threat modelling tools and what options does gamification bring to the table? <br>
+            We will look at an OWASP project I've found to be very useful in getting value
+            out of threat modelling in the agile world of rapid delivery&#58; Cornucopia.
+
+
+
+- image   : anastasiia_voitova.jpg
+  name    : Anastasiia Voitova
+  bio     : Head of Customer Solutions, Security Software Engineer @CossackLabs<br>
+            Anastasiia is a software engineer with a wide background, she started
+            her career as a mobile developer, then deepen into security engineering.
+            Now she is focused on cryptography/applied security, she helps companies
+            to build secure yet usable systems (oh yes, it takes efforts). <br>
+            Anastasiia maintains open-source cryptographic library Themis,
+            conducts secure software development training, often speaks at
+            international conferences, co-organizes cyber-security events and
+            leads security chapter at WomenWhoCode Kyiv.
+  title   : Maintaining Crypto Library for 12 Languages
+  abstract: Maintaining cross-platform cryptographic library is a journey full of
+            unexpected bugs, language-specific hacks, difficult decisions and
+            endless struggle to make developer-facing APIs easy-to-use and
+            hard-to-misuse.<br>
+            We will talk about API design, multi-platform specifics (oh Apple),
+            testing and supporting documentation. The talk will be useful for
+            anyone who has their own open source project; or uses one &#58;)
