@@ -59,20 +59,6 @@
             out of threat modelling in the agile world of rapid delivery&#58; Cornucopia.
 
 
-- image   : izar_tarandach.png
-  name    : Izar Tarandach
-  bio     : Izar Tarandach is a Sr. Security Architect at Bridgewater Associates.
-            Previously he was Lead Product Security Architect. He has co-authored 'Threat
-            Modeling&#58; A Practical Guide for Development Teams' with Matt Coles
-            (O'Reilly, Dec/2020) and is project leader for pytm,
-            a 'threat-modeling-with-code' tool.
-  title   : Continuous Threat Modeling for Development Teams
-  abstract: The recent increase in popularity of Threat Modeling has repeatedly pointed
-            at the necessity for threat modeling methodologies that work in an agile environment
-            where design changes with implementation and emerging constraints. CTM (Continuous
-            Threat Modeling) is a methodology proposing to help development teams close this gap.
-
-
 - image   : anastasiia_voitova.jpg
   name    : Anastasiia Voitova
   bio     : Head of Customer Solutions, Security Software Engineer @CossackLabs<br>
@@ -92,6 +78,19 @@
             We will talk about API design, multi-platform specifics (oh Apple),
             testing and supporting documentation. The talk will be useful for
             anyone who has their own open source project; or uses one &#58;)
+
+- image   : izar_tarandach.png
+  name    : Izar Tarandach
+  bio     : Izar Tarandach is a Sr. Security Architect at Bridgewater Associates.
+            Previously he was Lead Product Security Architect. He has co-authored 'Threat
+            Modeling&#58; A Practical Guide for Development Teams' with Matt Coles
+            (O'Reilly, Dec/2020) and is project leader for pytm,
+            a 'threat-modeling-with-code' tool.
+  title   : Continuous Threat Modeling for Development Teams
+  abstract: The recent increase in popularity of Threat Modeling has repeatedly pointed
+            at the necessity for threat modeling methodologies that work in an agile environment
+            where design changes with implementation and emerging constraints. CTM (Continuous
+            Threat Modeling) is a methodology proposing to help development teams close this gap.
 
 
 - image   :

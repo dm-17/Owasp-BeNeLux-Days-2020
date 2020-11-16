@@ -1,7 +1,7 @@
 - title: Conference program
   url  : program/conference
-- title: Sponsor
-  url  : sponsor/
+- title: Donate
+  url  : donate/
 - title: About
   items:
   - title: About OWASP
