@@ -1,4 +1,5 @@
 - image   : gary_mc_graw.png
+  day     : Monday November 23rd
   name    : Gary McGraw, Ph.D.
   bio     : Gary McGraw is co-founder of the Berryville Institute of Machine Learning.
             He is a globally recognized authority on software security and the author of eight
@@ -42,6 +43,7 @@
 
 
 - image   : izar_tarandach.png
+  day     : Tuesday November 24th
   name    : Izar Tarandach
   bio     : Izar Tarandach is a Sr. Security Architect at Bridgewater Associates.
             Previously he was Lead Product Security Architect. He has co-authored 'Threat
@@ -56,6 +58,7 @@
 
 
 - image   :
+  day     : Tuesday November 24th
   name    : Izar Tarandach and Brook S.E. Schoenfield
   bio     : Izar Tarandach is a Sr. Security Architect in a leading financial
             institution. Before that he was Lead Product Security Architect
@@ -104,6 +107,7 @@
 
 
 - image   : grant_ongers.png
+  day     : Wednesday November 25th
   name    : Grant Ongers
   bio     : Grant's experience spans Dev - building platforms for regulated industries for
             more than 10 years. 20+ years in Ops, everything from managing operations in
@@ -123,6 +127,7 @@
 
 
 - image   : anastasiia_voitova.jpg
+  day     : Thursday November 26th
   name    : Anastasiia Voitova
   bio     : Head of Customer Solutions, Security Software Engineer @CossackLabs<br>
             Anastasiia is a software engineer with a wide background, she started
