@@ -45,21 +45,6 @@
 - image   : izar_tarandach.png
   day     : Tuesday November 24th
   name    : Izar Tarandach
-  bio     : Izar Tarandach is a Sr. Security Architect at Bridgewater Associates.
-            Previously he was Lead Product Security Architect. He has co-authored 'Threat
-            Modeling&#58; A Practical Guide for Development Teams' with Matt Coles
-            (O'Reilly, Dec/2020) and is project leader for pytm,
-            a 'threat-modeling-with-code' tool.
-  title   : Continuous Threat Modeling for Development Teams
-  abstract: The recent increase in popularity of Threat Modeling has repeatedly pointed
-            at the necessity for threat modeling methodologies that work in an agile environment
-            where design changes with implementation and emerging constraints. CTM (Continuous
-            Threat Modeling) is a methodology proposing to help development teams close this gap.
-
-
-- image   :
-  day     : Tuesday November 24th
-  name    : Izar Tarandach and Brook S.E. Schoenfield
   bio     : Izar Tarandach is a Sr. Security Architect in a leading financial
             institution. Before that he was Lead Product Security Architect
             at Autodesk inc., Security Architect for Enterprise Hybrid Cloud
@@ -70,8 +55,17 @@
             an instructor in Digital Forensics at Boston University and in
             Secure Development at the University of Oregon. Izar recently
             published Threat Modeling, a practical guide for development teams
-            (O’Reilly, 2020) together with Threat Modeling.<br><br>
-            Brook S.E. Schoenfield is the author of Secrets Of A cyber Security
+            (O’Reilly, 2020) together with Threat Modeling.
+  title   : Continuous Threat Modeling for Development Teams
+  abstract: The recent increase in popularity of Threat Modeling has repeatedly pointed
+            at the necessity for threat modeling methodologies that work in an agile environment
+            where design changes with implementation and emerging constraints. CTM (Continuous
+            Threat Modeling) is a methodology proposing to help development teams close this gap.
+
+- image   : brook_schoenfield.jpg
+  day     : Tuesday November 24th
+  name    : Brook S.E. Schoenfield
+  bio     : Brook S.E. Schoenfield is the author of Secrets Of A cyber Security
             Architect (Auerbach, 2019) and Securing Systems&#58; Applied Security
             Architecture and Threat Models (CRC Press, 2015). He provides
             holistic, technical leadership for his clients’ security architecture
@@ -89,6 +83,28 @@
             and Tactical Threat Modeling (SAFECode, 2017). Building In Security
             At Agile Speed  is expected early 2021 (CRC Press, co-authored
             with James Ransome).
+  title   : A threat modelling experience
+  abstract: Unfortunately, there are many misconceptions about threat modelling.
+            Particularly, threat modelling is too often performed exactly once after
+            what is to be implemented has been decided, that is, after the
+            “architecture” or “design” is finished. We’ve learned that threat
+            modelling must integrate organically with development practices,
+            whatever those may be, if the analysis is to be effective. But, is
+            “agile threat modelling” even possible, given this widely held view
+            that a threat model is a point-in-time activity, perhaps executed by
+            security specialists who are not a part of an Agile team?<br>
+            This talk will answer these questions definitively, based on decades of
+            experience with thousands of developers. In addition, the talk
+            will cover what we may expect to gain from a threat model, how the
+            threat model adds unique value to software development that is
+            difficult to achieve through other means. We will also survey the
+            role of automation for threat modelling at today’s state of the art.
+
+
+- image   :
+  day     : Tuesday November 24th
+  name    : Izar Tarandach and Brook S.E. Schoenfield
+  bio     :
   title   : Panel talk&#58; Agile Threat Modeling
   abstract: During this session we have 2 renowned threat modeling authors&#58;
             Izar Tarandach and Brook Schoenfield, discussing how to combine threat
@@ -103,7 +119,7 @@
             Brook and Izar will first set the stage by presenting respectively&#58;<br>
             - Where does threat modelling fit within software security (an SDL)?<br>
             - Threat modeling for Agile teams?<br>
-            Followed by a panel discussion moderated by Sebastien Deleersnyder, Toreon.
+            Followed by a panel discussion moderated by <strong>Sebastien Deleersnyder</strong>, Toreon.
 
 
 - image   : grant_ongers.png
@@ -124,6 +140,49 @@
             We will look at an OWASP project I've found to be very useful in getting value
             out of threat modelling in the agile world of rapid delivery&#58; Cornucopia.
 
+
+- image   :
+  day     : Wednesday November 25th
+  name    : Nicole Becher and Nancy Gariché
+  bio     : <p>Nicole Becher is currently Director of Information Security & Risk
+            Management for S&P Global Platts. She has been in the cybersecurity space
+            for over ten years working mostly in offensive security capacities leading
+            penetration testers, red teams, forensics and incident responders. She also
+            worked on cyber/regulatory policy for New York State Department of Financial
+            Services, where she helped draft the first-in-nation regulatory framework
+            for assessing the cybersecurity of large and complex financial institutions
+            and regulatory framework for bitcoin and virtual currency companies.
+            Nicole is also an Adjunct Instructor at New York University,
+            where she teaches courses on computer security. She is a co-project
+            leader for OWASP DevSlop Project (Open Web Application Security Project).
+            Nicole has presented both talks and training, at various conferences
+            around the world on topics related to her research interests.
+            She is a Cybersecurity fellow of New America, a Washington DC-based
+            think-tank, and is a fellow of the Madison Policy Forum, a
+            cybersecurity-focused policy group bridging military, government
+            and industry. She is a Certified Information Systems Security
+            Professional (CISSP).  Nicole is a member of the Conservation Technology
+            SMART Security Council and is very active in wildlife conservation
+            technology and animal rescue.</p>
+            <p>Nancy Gariché&#58; In the early 2000s, Nancy joined the Canadian federal government
+            as a computer science CO-OP student and never left. In 2009, she moved
+            to Ottawa from Montreal, her beloved hometown, to land her first IT
+            security job as a security analyst. This multi-hatted role gave her
+            the opportunity to take on duties in multiple disciplines ranging
+            from incident handling, to project and risk management. Involved in
+            her local infosec community, she aspires to welcome and empower a new
+            generation of industry professionals into the workforce. She is currently
+            leading her federal Department’s Security Assessment and Authorization
+            Program and she is the founder of BDB Skills, a community that helps
+            cybersecurity professionals and enthusiasts obtain the skills and
+            certifications required to kickstart or level up their career. Nancy is
+            also the co-leader of the Ottawa Chapter of the Open Web Application
+            Security Project (OWASP) and of the OWASP DevSlop project.</p>
+  title   : What is the OWASP DevSlop Project?
+  abstract: As the DevSlop project continues to evolve, we are evolving with it.<br>
+            Learn more about the origins of this project from its OWASP Broken
+            Web Apps (BWA) days to where it is now, which is a learning and
+            teaching platform for the ever-growing DevSecOps tooling, ideas and practices.
 
 
 - image   : anastasiia_voitova.jpg
