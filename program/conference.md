@@ -22,9 +22,6 @@ title: Conference program
         <br>
       {% endif %}
     </p>
-
-
-
 		</li>
 		{% endif %}
 	{% endfor %}
