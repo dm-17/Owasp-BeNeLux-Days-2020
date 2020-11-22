@@ -121,27 +121,7 @@
             - Threat modeling for Agile teams?<br>
             Followed by a panel discussion moderated by <strong>Sebastien Deleersnyder</strong>, Toreon.
 
-
-- image   : grant_ongers.png
-  day     : Wednesday November 25th
-  name    : Grant Ongers
-  bio     : Grant's experience spans Dev - building platforms for regulated industries for
-            more than 10 years. 20+ years in Ops, everything from managing operations in
-            NOCs to mainframe and DBs. He also has over 30 years pushing the limits of
-            (Info)Sec - mostly white-hat.<br>
-            Grant’s community involvement is global&#58; Staff at BSides (London, Las Vegas,
-            and Cape Town), Goon at DEF CON (USA) for nearly ten years and DC2721 co-founder,
-            staff at BlackHat (USA and EU), and OWASP Global Board member.
-  title   : Gamification of Agile Threat Modelling Using OWASP Cornucopia
-  abstract: Traditional threat modelling could be described as problematic and time consuming,
-            so does the practice serve a purpose in the world where DevOps is a thing,
-            and if so, how? Can you get the right balance of rigour and agility from traditional
-            threat modelling tools and what options does gamification bring to the table? <br>
-            We will look at an OWASP project I've found to be very useful in getting value
-            out of threat modelling in the agile world of rapid delivery&#58; Cornucopia.
-
-
-- image   :
+- image   : nancy_gariche.jpg
   day     : Wednesday November 25th
   name    : Nicole Becher and Nancy Gariché
   bio     : <p>Nicole Becher is currently Director of Information Security & Risk
@@ -184,6 +164,36 @@
             Web Apps (BWA) days to where it is now, which is a learning and
             teaching platform for the ever-growing DevSecOps tooling, ideas and practices.
 
+- image   :
+  day     : Wednesday November 25th
+  name    : Jeff Foley
+  bio     : Jeff Foley is a network programmer, tool developer and technologist
+            that enjoys automation.<br>
+            His career quickly took him in the direction of information security
+            research and development with a focus on offensive security engineering.
+  title   : OWASP AMASS
+  abstract: The OWASP Amass Project has developed a tool to help information
+            security professionals perform network mapping of attack surfaces
+            and perform external asset discovery using open source information
+            gathering and active reconnaissance techniques.
+
+- image   : grant_ongers.png
+  day     : Wednesday November 25th
+  name    : Grant Ongers
+  bio     : Grant's experience spans Dev - building platforms for regulated industries for
+            more than 10 years. 20+ years in Ops, everything from managing operations in
+            NOCs to mainframe and DBs. He also has over 30 years pushing the limits of
+            (Info)Sec - mostly white-hat.<br>
+            Grant’s community involvement is global&#58; Staff at BSides (London, Las Vegas,
+            and Cape Town), Goon at DEF CON (USA) for nearly ten years and DC2721 co-founder,
+            staff at BlackHat (USA and EU), and OWASP Global Board member.
+  title   : Gamification of Agile Threat Modelling Using OWASP Cornucopia
+  abstract: Traditional threat modelling could be described as problematic and time consuming,
+            so does the practice serve a purpose in the world where DevOps is a thing,
+            and if so, how? Can you get the right balance of rigour and agility from traditional
+            threat modelling tools and what options does gamification bring to the table? <br>
+            We will look at an OWASP project I've found to be very useful in getting value
+            out of threat modelling in the agile world of rapid delivery&#58; Cornucopia.
 
 - image   : anastasiia_voitova.jpg
   day     : Thursday November 26th
