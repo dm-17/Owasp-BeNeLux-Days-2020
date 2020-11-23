@@ -212,21 +212,22 @@
             Testing & Red Teaming at National Grid. In his spare time, Jeff enjoys experimenting
             with new blends of coffee, automating security tasks, and giving back to the
             information security community.
-  title   : OWASP Amass&#58;   You Can't Protect What You Don't Know You Have
+  title   : OWASP Amass&#58; You Can't Protect What You Don't Know You Have
   abstract: The OWASP Amass Project provides a tool to help information security
-            professionals perform attack surface mapping and asset discovery using open-source
-            information gathering and network reconnaissance. Attack surface mapping is an
-            important task for red teams and blue teams, yet also filled with many steps,
-            making it tedious and error-prone. The OWASP Amass Project allows information
-            security professionals to bring automation and organization to their asset
-            discovery process. This focus area is growing in importance as CISOs report
-            that complexity is their number one challenge due to the need to protect more
-            assets, while technology and people are being spread further across the Internet,
-            creating a more dynamic and less predictable attack surface.   <br>
-              <br>
-            Agenda&#58;   <br><br>
-            - Introduction to the OWASP Amass Project   <br><br>
-            - Share Observations and Challenges from Amass   <br><br>
-            - Demonstrate Basic Features of Amass   <br><br>
-            - Discuss Future Directions   <br><br>
-            - Questions 
+            professionals perform attack surface mapping and asset discovery using
+            open-source information gathering and network reconnaissance.
+            Attack surface mapping is an important task for red teams and blue teams,
+            yet also filled with many steps, making it tedious and error-prone.
+            The OWASP Amass Project allows information security professionals to
+            bring automation and organization to their asset discovery process.
+            This focus area is growing in importance as CISOs report that complexity
+            is their number one challenge due to the need to protect more assets,
+            while technology and people are being spread further across the Internet,
+            creating a more dynamic and less predictable attack surface.  
+            <br>
+            <em>Agenda&#58;</em><br>
+            - Introduction to the OWASP Amass Project<br>
+            - Share Observations and Challenges from Amass<br>
+            - Demonstrate Basic Features of Amass<br>
+            - Discuss Future Directions<br>
+            - Questions
