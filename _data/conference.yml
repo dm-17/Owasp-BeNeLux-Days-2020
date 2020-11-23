@@ -164,19 +164,6 @@
             Web Apps (BWA) days to where it is now, which is a learning and
             teaching platform for the ever-growing DevSecOps tooling, ideas and practices.
 
-- image   :
-  day     : Wednesday November 25th
-  name    : Jeff Foley
-  bio     : Jeff Foley is a network programmer, tool developer and technologist
-            that enjoys automation.<br>
-            His career quickly took him in the direction of information security
-            research and development with a focus on offensive security engineering.
-  title   : OWASP AMASS
-  abstract: The OWASP Amass Project has developed a tool to help information
-            security professionals perform network mapping of attack surfaces
-            and perform external asset discovery using open source information
-            gathering and active reconnaissance techniques.
-
 - image   : grant_ongers.png
   day     : Wednesday November 25th
   name    : Grant Ongers
@@ -215,3 +202,31 @@
             We will talk about API design, multi-platform specifics (oh Apple),
             testing and supporting documentation. The talk will be useful for
             anyone who has their own open source project; or uses one &#58;)
+
+- image   : jeff_foley.png
+  day     : Thursday November 26th
+  name    : Jeff Foley
+  bio     : Jeff Foley is the founder and project leader for Amass. Jeff also
+            serves as a Principal Consultant at ClaritySec, Inc. and as an Adjunct Professor
+            at SUNY Polytechnic Institute. Prior to this, he was the US Manager for Penetration
+            Testing & Red Teaming at National Grid. In his spare time, Jeff enjoys experimenting
+            with new blends of coffee, automating security tasks, and giving back to the
+            information security community.
+  title   : OWASP Amass: You Can't Protect What You Don't Know You Have
+  abstract: The OWASP Amass Project provides a tool to help information security
+            professionals perform attack surface mapping and asset discovery using open-source
+            information gathering and network reconnaissance. Attack surface mapping is an
+            important task for red teams and blue teams, yet also filled with many steps,
+            making it tedious and error-prone. The OWASP Amass Project allows information
+            security professionals to bring automation and organization to their asset
+            discovery process. This focus area is growing in importance as CISOs report
+            that complexity is their number one challenge due to the need to protect more
+            assets, while technology and people are being spread further across the Internet,
+            creating a more dynamic and less predictable attack surface.   <br>
+              <br>
+            Agenda&#58;   <br><br>
+            - Introduction to the OWASP Amass Project   <br><br>
+            - Share Observations and Challenges from Amass   <br><br>
+            - Demonstrate Basic Features of Amass   <br><br>
+            - Discuss Future Directions   <br><br>
+            - Questions 
