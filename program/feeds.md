@@ -2,7 +2,6 @@
 title: Relive the conference
 ---
 
-
 <div class="feeds-full">
 	<table>
   <thead>
