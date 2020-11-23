@@ -1,3 +1,5 @@
+# 23/11/2020
+
 - image   : gary_mc_graw.png
   day     : Monday November 23rd
   name    : Gary McGraw, Ph.D.
@@ -40,7 +42,11 @@
             on ML and the results of an architectural risk analysis (sometimes
             called a threat model) of ML systems in general.<br>
             A list of the top five (of 78 known) ML security risks will be presented.
+  feed    : https://youtu.be/88H3c9fc8og
+  url     : https://berryvilleiml.com/results/ara.pdf
+  urltag  : PDF
 
+# 24/11/2020
 
 - image   : izar_tarandach.png
   day     : Tuesday November 24th
@@ -121,6 +127,9 @@
             - Threat modeling for Agile teams?<br>
             Followed by a panel discussion moderated by <strong>Sebastien Deleersnyder</strong>, Toreon.
 
+
+# 25/11/2020
+
 - image   : nancy_gariche.jpg
   day     : Wednesday November 25th
   name    : Nicole Becher and Nancy Gariché
@@ -181,6 +190,9 @@
             threat modelling tools and what options does gamification bring to the table? <br>
             We will look at an OWASP project I've found to be very useful in getting value
             out of threat modelling in the agile world of rapid delivery&#58; Cornucopia.
+
+
+# 26/11/2020
 
 - image   : anastasiia_voitova.jpg
   day     : Thursday November 26th
