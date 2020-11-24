@@ -175,6 +175,7 @@
             Learn more about the origins of this project from its OWASP Broken
             Web Apps (BWA) days to where it is now, which is a learning and
             teaching platform for the ever-growing DevSecOps tooling, ideas and practices.
+#  feed    : https://youtu.be/-P6xz_XLVIQ
 
 - image   : grant_ongers.png
   day     : Wednesday November 25th
@@ -193,7 +194,7 @@
             threat modelling tools and what options does gamification bring to the table? <br>
             We will look at an OWASP project I've found to be very useful in getting value
             out of threat modelling in the agile world of rapid delivery&#58; Cornucopia.
-
+#  feed    : https://youtu.be/-P6xz_XLVIQ
 
 # 26/11/2020
 
@@ -217,6 +218,9 @@
             We will talk about API design, multi-platform specifics (oh Apple),
             testing and supporting documentation. The talk will be useful for
             anyone who has their own open source project; or uses one &#58;)
+#  feed    : https://youtu.be/5_r6Cg5sJ_A
+
+
 
 - image   : jeff_foley.png
   day     : Thursday November 26th
@@ -246,3 +250,4 @@
             - Demonstrate Basic Features of Amass<br>
             - Discuss Future Directions<br>
             - Questions
+#  feed    : https://youtu.be/5_r6Cg5sJ_A
