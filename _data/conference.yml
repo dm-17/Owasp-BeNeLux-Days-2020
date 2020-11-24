@@ -67,6 +67,7 @@
             at the necessity for threat modeling methodologies that work in an agile environment
             where design changes with implementation and emerging constraints. CTM (Continuous
             Threat Modeling) is a methodology proposing to help development teams close this gap.
+  feed    : https://youtu.be/ARjlRFQN7XM
 
 - image   : brook_schoenfield.jpg
   day     : Tuesday November 24th
@@ -105,6 +106,7 @@
             threat model adds unique value to software development that is
             difficult to achieve through other means. We will also survey the
             role of automation for threat modelling at today’s state of the art.
+  feed    : https://youtu.be/ARjlRFQN7XM
 
 
 - image   :
@@ -126,6 +128,7 @@
             - Where does threat modelling fit within software security (an SDL)?<br>
             - Threat modeling for Agile teams?<br>
             Followed by a panel discussion moderated by <strong>Sebastien Deleersnyder</strong>, Toreon.
+  feed    : https://youtu.be/ARjlRFQN7XM
 
 
 # 25/11/2020
