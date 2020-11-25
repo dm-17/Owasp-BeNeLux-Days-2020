@@ -43,7 +43,7 @@
             called a threat model) of ML systems in general.<br>
             A list of the top five (of 78 known) ML security risks will be presented.
   feed    : https://youtu.be/88H3c9fc8og
-  url     : https://berryvilleiml.com/results/ara.pdf
+  url     : /assets/files/gary_mc_graw_BIML20.pdf
   urltag  : PDF
 
 # 24/11/2020
@@ -175,7 +175,7 @@
             Learn more about the origins of this project from its OWASP Broken
             Web Apps (BWA) days to where it is now, which is a learning and
             teaching platform for the ever-growing DevSecOps tooling, ideas and practices.
-#  feed    : https://youtu.be/-P6xz_XLVIQ
+  feed    : https://youtu.be/-P6xz_XLVIQ
 
 - image   : grant_ongers.png
   day     : Wednesday November 25th
@@ -194,7 +194,7 @@
             threat modelling tools and what options does gamification bring to the table? <br>
             We will look at an OWASP project I've found to be very useful in getting value
             out of threat modelling in the agile world of rapid delivery&#58; Cornucopia.
-#  feed    : https://youtu.be/-P6xz_XLVIQ
+  feed    : https://youtu.be/-P6xz_XLVIQ
 
 # 26/11/2020
 
