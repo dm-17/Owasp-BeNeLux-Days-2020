@@ -4,8 +4,6 @@
   url  : program/feeds
 - title: Donate
   url  : donate/
-- title: Register
-  url  : https://owasp-appsec-benelux-days-2020.eventbrite.com/
 - title: About
   items:
   - title: About OWASP
