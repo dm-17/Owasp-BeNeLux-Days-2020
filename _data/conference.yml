@@ -68,6 +68,9 @@
             where design changes with implementation and emerging constraints. CTM (Continuous
             Threat Modeling) is a methodology proposing to help development teams close this gap.
   feed    : https://youtu.be/ARjlRFQN7XM
+  url     : /assets/files/izar_tarandach_continuous_threat_modeling-owasp-benelux-2020.pptx
+  urltag  : PPTX
+
 
 - image   : brook_schoenfield.jpg
   day     : Tuesday November 24th
